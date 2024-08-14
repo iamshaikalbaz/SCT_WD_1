@@ -11,7 +11,6 @@ This project is a responsive landing page created as Task-01 for my internship a
 - **HTML**: Used to structure the content of the page.
 - **CSS**: Used for styling the page.
 - **JavaScript**: Used to add interactivity, such as changing the background color or font color of the menu when it is scrolled or when a menu item is hovered over.
-- **Bootstrap**: Used to ensure responsiveness.
 
 ## Features
 
