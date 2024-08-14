@@ -1,4 +1,4 @@
-# SkillCraft Internship Task 1
+# SkillCraft Technology Task 1
 
 # Responsive Landing Page
 
